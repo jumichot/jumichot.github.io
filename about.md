@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+Rails and Javascript developer based in paris
+
+Available for freelancing work
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[contact@julienmichot.fr](mailto:contact@julienmichot.fr)
