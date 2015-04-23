@@ -71,9 +71,6 @@ idées, ses todo lists...
 
 - [calendar-vim](https://github.com/mattn/calendar-vim) : plugin affichant un calendrier pour créer des entrées dans
 vim wiki
-- [vim-webdevicons](https://github.com/ryanoasis/vim-webdevicons) : ajoute des icônes à côté du nom des fichiers dans NERDTree
-
-  ![vim-webdevicons](/images/posts/meetups/vim-7/vimwebdevicons.png)
 
 - [vim-startify](https://github.com/mhinz/vim-startify) : change l'écran d'accueil par défaut et propose à la place des
 raccourci pour ouvrir les derniers fichiers/sessions utilisés.
