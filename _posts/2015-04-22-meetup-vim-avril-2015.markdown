@@ -126,6 +126,11 @@ Permet de voir les registres. Les registres sont une sorte de clipboards plus é
 différents registres. C'est une fonctionnalité que j'utilise assez peu vu que je me sers de [ClipMenu](http://www.clipmenu.com/)
 mais ça à l'air vraiment intéressant.
 
+{% highlight vim %}
+autocmd BufWritePost $MYVIMRC so $MYVIMRC
+{% endhighlight %}
+Permet de recharger la configuration Vim automatiquement lorsqu'on la modifie.
+
 ## Conclusion
 C'était encore un meetup enrichissant, j'ai passé une bonne soirée. Comme d'habitude je repars avec tout un tas de plugins à tester.
 
