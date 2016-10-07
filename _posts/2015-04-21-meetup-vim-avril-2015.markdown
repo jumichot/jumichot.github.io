@@ -1,9 +1,8 @@
 ---
+title: Meetup Vim Avril 2015
+date: 2015-04-21 17:00:00 Z
 layout: post
-title: "Meetup Vim Avril 2015"
-date: "2015-04-21 19:00:00 +0200"
 ---
-
 
 Seconde participation au meetup Vim organisé par Silex Labs([@silexlabs](https://twitter.com/silexlabs)) hébergé chez Mediabox.
 Il y avait beaucoup plus de participants que la première fois où je suis venu, ce qui nous poussé à changer de salle
